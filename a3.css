@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+.name { color:green; }
+.studentid { color:green; }
+.assignment { color:red; }
+#course { font-weight:normal; font-style:italic; }
